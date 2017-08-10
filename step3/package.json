@@ -1,0 +1,20 @@
+{
+  "name": "tutorial",
+  "version": "0.0.1",
+  "description": "This is a sample project for the quickstart to frontend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Suen",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.5.1"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
